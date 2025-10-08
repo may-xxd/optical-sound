@@ -1,4 +1,5 @@
 build/
+*.avi
 *.wav
 *.bmp
 .cache/
